@@ -79,34 +79,6 @@ In these sections, the owner has the ability to:
 - **Enhanced User Experience**: Utilizes haptic feedback and sound effects to provide a more immersive and enjoyable experience for users, enhancing their interaction with the application.
 - **Minimal User Engagement**: Embraces the ideology of single-click interaction, aiming for maximum reduction in user effort while ensuring optimal task management and efficiency.
 
-## 🛠️ Installation
-
-To get started with FarmService, follow these simple steps:
-
-1. Clone the repo
-   ```bash
-   git clone https://github.com/yourusername/FarmService.git
-   ```
-2. Navigate to the project directory
-   ```bash
-   cd FarmService
-   ```
-3. Install the dependencies
-   ```bash
-   npm install
-   ```
-
-## 🚀 Usage
-
-After installing the app, you can start organizing your farming tasks in no time. Here’s how:
-
-1. Launch the app
-   ```bash
-   npm start
-   ```
-2. Log in with your credentials
-3. Start assigning tasks and scheduling employees with just a few taps!
-
 
 ## 🛡️ License
 All Rights Reserved by PwGawzynski
